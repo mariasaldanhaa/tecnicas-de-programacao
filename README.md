@@ -25,7 +25,7 @@ Siga os passos abaixo para rodar os códigos localmente:
 - Digite `git clone https://github.com/mariasaldanhaa/tecnicas-de-programacao.git`
 - Por fim, abra algum arquivo e aperte `F5` ou cique no botão ▶️ (Run) no canto superior direito
 
-# 📂 Estrutura do repositório
+# 📂 Conteúdo Programático
 
 | # | Conteúdo   | Status         |
 |---| ---------- |--------------- |
