@@ -1,0 +1,10 @@
+
+ALUNO 1 - Matricula: 118093 | Nota: 59.00
+
+SITUACAO DO ALUNO 1: RECUPERACAO!
+------------------------------------------------------------
+
+ALUNO 2 - Matricula: 118093 | Nota: 59.00
+
+SITUACAO DO ALUNO 2: RECUPERACAO!
+------------------------------------------------------------
